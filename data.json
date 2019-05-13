@@ -1,0 +1,72 @@
+{
+    "appName": "AVAGame",
+    "description": "is your one stop destination for all gaming news, review and walkthoughs.",
+    "games": [
+        {
+            "id": 112916,
+            "isTop": true,
+            "name": "Mortal Kombat 11",
+            "summary": "Mortal Kombat is back and better than ever in the next evolution of the iconic franchise. \n \nThe all new Custom Character Variations give you unprecedented control of your fighters to make them your own. The new graphics engine showcases every skull-shattering, eye-popping moment, bringing you so close to the fight you can feel it. Featuring a roster of new and returning Klassic Fighters, Mortal Kombat's best-in-class cinematic story mode continues the epic saga over 25 years in the making."
+        },
+        {
+            "id": 114455,
+            "name": "Pacify",
+            "isTop": true,
+            "summary": "An indie, multiplayer, horror game with fast paced game play for up to 4 players. Teams will need to explore an eerie mansion with a rumored past of funeral services including contacting deceased loved ones. A scary girl roams the house, and players need to keep her pacified to survive."
+        },
+        {
+            "id": 55036,
+            "name": "Anno 1800",
+            "isTop": true,
+            "summary": "Welcome to the dawn of the industrial age. The path you choose will define your world. Are you renovator or exploiter? Suppressor or liberator? It's up to you how the world will remember your name. \n \nIn Anno 1800, players will take charge of their own fortune as they navigate the rapidly evolving technological and malicious political landscape of the 19th century in their quest to build an empire that will stand the test of time. \n \nCombining beloved features with innovative gameplay in a memorable new setting, Anno 1800 marks the beginning of a new era for the Anno franchise."
+        },
+        {
+            "id": 102060,
+            "name": "Imperator: Rome",
+            "summary": "\"Paradox Development Studio returns to ancient history with Imperator: Rome, a new title set around the growth of Roman power in a threatening Mediterranean. Unify Italy and then the world under the eagles of your legions. Or rule an Eastern monarchy with claims to the mantle of Alexander. Slaves, barbarians and war elephants bring the distant past to life in Imperator: Rome. Can you be a Caesar?\""
+        },
+        {
+            "id": 20910,
+            "name": "World War Z",
+            "isHero": true,
+            "summary": "Saber Interactive and Paramount pictures presents World War Z, a new four-player coop third-person shooter coming in 2019 for PlayStation 4, Xbox One, and PC."
+        },
+        {
+            "id": 19561,
+            "name": "Days Gone",
+            "summary": "Days Gone is an open-world action-adventure game set in a harsh wilderness two years after a devastating global pandemic. Play as Deacon St. John, a Drifter and bounty hunter who rides the broken road, fighting to survive while searching for a reason to live. \n \nAt its core, Days Gone is about survivors and what makes them human: desperation, loss, madness, betrayal, friendship, brotherhood, regret, love – and hope. It’s about how even when confronted with such enormous tragedy they find a reason to live. Hope never dies."
+        },
+        {
+            "id": 79134,
+            "name": "Ancient Cities",
+            "isTop": true,
+            "summary": "Ancient Citiesis a Survival and Strategy City Builder PC game through the ages, strongly focused on history and realism. Currently being developed by Uncasual Games. \n \nStarting in the Neolithic era, you will have to guide your people through generations, discovering and improving technologies, managing resources and population, facing threats from raiders and Mother Nature herself. And, ultimately, building the most fantastic city of antiquity through the ages in a fully simulated world and ecosystem."
+        },
+        {
+            "id": 22472,
+            "name": "Artificial Academy 2",
+            "summary": "Artificial Academy 2 is an eroge high school social simulation, sequel of Artificial Academy. \n \nCreate and play up to 25 students of varying gender, orientation with interaction abilities and personal inclinations. Make friends and lovers as the class competes for achievements in academics, athletics, popularity, and romance."
+        },
+        {
+            "id": 110737,
+            "name": "The Watson-Scott Test",
+            "summary": "Take the Watson-Scott personality test and discover your deepest and darkest fears. 30 multiple-choice questions will tell you if you're more afraid of clowns, snakes, or something more sinister..."
+        },
+        {
+            "id": 110810,
+            "name": "Running Naked Simulator 2019",
+            "summary": "Rock out with your (8-bit) block out in Running Naked Simulator 2019! Master the gentle art of running naked for everyone to see, and streak through public parks in iconic characters! It’s totally inappropriate!"
+        },
+        {
+            "id": 25763,
+            "name": "Underload",
+            "isHero": true,
+            "summary": "You didn't ask what the diversion was for, you didn't ask for a good teamate and munition too... But the fate of the wourld depend of you (well... you think)\n\nSurvive the longest time, fight for your life, and don't forget to get the pieces of your truck back after tossing them."
+        },
+        {
+            "id": 111593,
+            "name": "Oppai Puzzle",
+            "summary": "This is a classic digital jigsaw puzzle that anyone can easily play."
+        }
+    ]
+}

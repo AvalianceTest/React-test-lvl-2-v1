@@ -1,4 +1,4 @@
-"# React-test-lvl-3-v1" 
+"# React-test-lvl-2-v1" 
 
 Hello this a simple dumpy test, you should just re-produce what on the fegma mockup using you skill set and the front-end technical stack below: 
 - React 
@@ -6,7 +6,7 @@ Hello this a simple dumpy test, you should just re-produce what on the fegma moc
 - ES6 
 - ANY JS HTTP CLIENT YOU WANT
 
-it would be nice if you include some automatic tests
+you'll have to add the search and sort posiblitis, it would be nice if you include some automatic tests
 
 one more think there is a json file in here "data.json" serve it using an http server of you choice and include it in your repo.
 
