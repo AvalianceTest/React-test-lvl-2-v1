@@ -10,7 +10,7 @@ you'll have to add the search and sort posiblitis, it would be nice if you inclu
 
 one more think there is a json file in here "data.json" serve it using an http server of you choice and include it in your repo.
 
-yes one last think please dont pull requests this project just use own repo.
+yes one last thing please dont pull requests this project just use your own repo.
 
 figma Mockups : https://www.figma.com/file/NrM2DUOYp0fQJwCybrNjN5vd/Untitled?node-id=0%3A1
 
